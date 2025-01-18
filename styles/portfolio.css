@@ -136,6 +136,7 @@ height: 52px;
 border-radius:8px ;
 
 }
+/* banner style start */
 .banner{
     background-color: #C6E4D6;
     width: 1280px;
@@ -183,4 +184,37 @@ border-radius:8px ;
  width: 474.03px; 
  height: 400px; 
  margin:80px; 
+}
+/* banner style end */
+.four-container{
+    display: flex;
+    gap: 24px;
+    
+}
+.first-1{
+    padding: 112px 24px 24px 24px;
+    box-shadow:0px  4px 4px 0px black;
+    border-radius: 16px;
+
+}
+.second-2{
+    padding: 112px 24px 24px 24px;
+    box-shadow:0px  4px 4px 0px black;
+    border-radius: 16px;
+}
+.third-3{
+    padding: 112px 24px 24px 24px;
+    box-shadow:0px  4px 4px 0px black;
+    border-radius: 16px;
+}
+.four-4{
+    padding: 112px 24px 24px 24px;
+    box-shadow:0px  4px 4px 0px black;
+    border-radius: 16px;
+}
+.pillers{
+    height: 324px;
+    width: 1280px;
+    margin-left: 160px;
+    margin-bottom: 80px;
 }
